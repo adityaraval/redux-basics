@@ -1,4 +1,4 @@
-# react-basics
-# basic react learning
+# react-redux-basics
+# basic react-redux learning
 
 
